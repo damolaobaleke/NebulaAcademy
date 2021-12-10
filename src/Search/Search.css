@@ -1,0 +1,15 @@
+.search{
+    background: url('https://res.cloudinary.com/www-softroniiks-com/image/upload/v1619866913/AfroWatch/Vector_jxclsd.svg');
+    background-repeat: no-repeat;
+    background-position: 10px 14px;
+    border-radius: 30px;
+    width: 450px;
+    height: 50px;
+    outline: none;
+    color: black;
+    padding-left: 40px;
+}
+
+.search{
+    background-color: white;
+}

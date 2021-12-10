@@ -1,0 +1,29 @@
+.movie-title{
+    font-weight: 700;
+    color: black;
+    font-size: 18px;
+}
+
+.movie-desc{
+    font-size: 14px;
+    color: black;
+    text-align: justify;
+    border-top: 1px solid black;
+}
+
+.card:hover{
+    box-shadow: 0 10px 30px -10px rgb(0 0 0 / 60%);
+    transition: 1s;
+    transform: translateZ(1rem);
+    border: 0px;
+}
+
+.card-image{
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.card{
+    border-radius: 20px;
+    transition: 3s;
+}
