@@ -27,16 +27,8 @@ const LandingPage=()=>{
     return(
         <div className="bg-Sec-1">
             <div className="">
-                <div className="row">
-                    <div className="col-md-12">
-                        <h1 className="py-4 heading-background">Popular Movies</h1>
-                        <p className="text-bold pt-3">Click on each movie for more information</p>
-                    </div> 
-                </div>
-
-                <div className="row">
-
-                </div>
+                <h1 className="py-4 heading-background">Popular Movies</h1>
+                <p className="text-bold pt-3">Click on each movie for more information</p>
             </div>
             
 
